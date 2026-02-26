@@ -1,0 +1,66 @@
+CROP NAME: Rice (Oryza sativa)
+
+GENERAL INFORMATION:
+Rice is a major Kharif crop grown in India. It requires warm and humid climate. 
+Ideal temperature: 20°C to 35°C.
+Ideal rainfall: 100–200 cm annually.
+Suitable soil: Clayey or loamy soil with good water retention.
+
+SEED VARIETIES:
+- IR64
+- ADT 43
+- BPT 5204
+- CR 1009
+
+NURSERY MANAGEMENT:
+Seeds should be treated with fungicide (Carbendazim 2g per kg seed) before sowing.
+Nursery duration: 20–25 days.
+
+FERTILIZER RECOMMENDATION:
+Basal dose per acre:
+- Urea: 50 kg
+- DAP: 50 kg
+- MOP (Potash): 25 kg
+
+Top dressing:
+Apply remaining nitrogen in 2 splits at tillering and panicle initiation stage.
+
+COMMON DISEASES:
+
+1. RICE BLAST:
+Symptoms:
+- Diamond-shaped lesions with gray center on leaves.
+- Leaf drying in severe cases.
+
+Cause:
+Fungal infection (Magnaporthe oryzae).
+
+Treatment:
+- Spray Tricyclazole 0.6 g per liter of water.
+- Avoid excess nitrogen fertilizer.
+- Maintain proper spacing.
+
+2. BACTERIAL LEAF BLIGHT:
+Symptoms:
+- Yellowing of leaf tips.
+- Drying from leaf edges.
+
+Treatment:
+- Spray Streptocycline 0.1 g per liter.
+- Use resistant varieties.
+
+3. BROWN PLANT HOPPER:
+Symptoms:
+- Hopper burn patches.
+- Stunted growth.
+
+Treatment:
+- Spray Imidacloprid 0.3 ml per liter.
+- Avoid excessive water stagnation.
+
+IRRIGATION MANAGEMENT:
+Maintain standing water of 2–5 cm during vegetative stage.
+Drain water 10 days before harvest.
+
+HARVESTING:
+Harvest when 80–85% grains turn golden yellow.

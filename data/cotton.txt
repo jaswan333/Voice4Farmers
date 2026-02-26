@@ -1,0 +1,65 @@
+CROP NAME: Cotton (Gossypium spp.)
+
+GENERAL INFORMATION:
+Cotton is a major fiber crop.
+Ideal temperature: 21°C to 30°C.
+Soil: Black cotton soil with good drainage.
+
+POPULAR VARIETIES:
+- Bt Cotton
+- MCU 5
+- LRA 5166
+- RCH 2
+
+SEED TREATMENT:
+Treat seeds with Imidacloprid 5 ml per kg seed to prevent sucking pests.
+
+FERTILIZER RECOMMENDATION PER ACRE:
+- Urea: 60 kg
+- DAP: 50 kg
+- Potash: 25 kg
+
+COMMON PESTS:
+
+1. PINK BOLLWORM:
+Symptoms:
+- Rosette flowers.
+- Damaged bolls.
+
+Treatment:
+- Install pheromone traps.
+- Spray Emamectin Benzoate 0.4 g per liter.
+
+2. WHITEFLY:
+Symptoms:
+- Yellowing leaves.
+- Sticky honeydew secretion.
+
+Treatment:
+- Spray Thiamethoxam 0.3 g per liter.
+- Avoid excessive nitrogen.
+
+3. APHIDS:
+Symptoms:
+- Curled leaves.
+- Sticky surface on leaves.
+
+Treatment:
+- Spray Neem oil 5 ml per liter.
+
+DISEASES:
+
+1. WILT:
+Symptoms:
+- Sudden plant drying.
+- Brown discoloration in stem.
+
+Treatment:
+- Crop rotation.
+- Use resistant varieties.
+
+IRRIGATION:
+Irrigate every 10–15 days depending on soil moisture.
+
+HARVEST:
+Pick bolls when fully opened and dry.
