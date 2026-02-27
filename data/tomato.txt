@@ -1,71 +1,91 @@
-CROP NAME: Tomato (Solanum lycopersicum)
+Tomato growers should be aware of the symptoms of Early Blight, a disease that causes brown, concentric rings on older leaves, giving a "bull's-eye" appearance. The affected leaves turn yellow, then brown, and drop off, and in severe cases, lesions can also appear on stems and fruits, leading to reduced yield and poor fruit quality. To treat Early Blight, spray Mancozeb at 2 grams per liter of water or use Chlorothalonil at the recommended dose, starting at the first symptom appearance and repeating 2-3 times at 10-14-day intervals. It is also essential to avoid excessive nitrogen and maintain balanced fertilization to reduce disease severity.
 
-GENERAL INFORMATION:
-Tomato is a widely cultivated vegetable crop.
-Ideal temperature: 18°C to 30°C.
-Soil: Well-drained sandy loam with pH 6.0–7.5.
+Preventing Early Blight involves using disease-free seed and rotating tomato with non-solanaceous crops. Avoiding overhead irrigation and maintaining proper spacing to improve air circulation can also help reduce the disease. Removing and destroying infected plant debris after harvest is crucial to reduce carry-over inoculum.
 
-POPULAR VARIETIES:
-- Pusa Ruby
-- Arka Rakshak
-- Arka Vikas
-- PKM 1
+Late Blight is another significant disease affecting tomatoes, causing dark green to black, water-soaked lesions on leaves and stems, which quickly turn brown and may spread rapidly. Under humid conditions, a white fungal growth can be seen on the undersides of leaves, and infected fruits develop firm, brown, greasy lesions and may rot. To treat Late Blight, use late-blight-tolerant varieties where available, and spray metalaxyl-M + mancozeb or similar systemic + contact fungicides at the recommended dose during cool, humid periods. Apply 2-3 sprays at 7-10-day intervals once disease symptoms appear, and avoid high-nitrogen doses.
 
-SEED TREATMENT:
-Treat seeds with Trichoderma 4g per kg seed before sowing.
+Preventing Late Blight involves avoiding dense planting and maintaining good drainage. It is also essential to avoid continuous tomato cropping and practice crop rotation. Removing and destroying infected plants and debris, as well as avoiding overhead irrigation and timing planting to escape prolonged cool, wet weather, can help reduce the risk of Late Blight.
 
-FERTILIZER RECOMMENDATION PER ACRE:
-- Farm Yard Manure: 8–10 tons
-- Urea: 50 kg
-- DAP: 100 kg
-- Potash: 50 kg
+Tomato Leaf Curl Virus (ToLCV / ToLCNDV) is a viral disease that causes infected plants to show upward curling, narrowing, and crinkling of leaves with stunted growth. New leaves may appear small and distorted, and flowering and fruiting are severely reduced. In severe cases, plants remain bushy and produce few or no marketable fruits. There is no chemical cure for the virus, so it is essential to remove and destroy infected plants immediately to reduce virus spread. Using resistant or tolerant varieties such as Arka Abhed, Arka Samrat, or other ICAR-recommended cultivars that carry Ty-genes (Ty-1, Ty-2, Ty-3) can help prevent the spread of the virus. Controlling whitefly (Bemisia tabaci) using approved insecticides at recommended doses is also crucial in preventing the spread of the virus.
 
-COMMON DISEASES:
+Preventing Tomato Leaf Curl Virus involves using virus-free seedlings and avoiding planting in high-risk areas without proper whitefly management. Maintaining field sanitation and removing host weeds (e.g., Datura, Sida, etc.) can also help reduce the risk of the virus.
 
-1. EARLY BLIGHT:
-Symptoms:
-- Brown concentric rings on leaves.
-- Yellowing and leaf drop.
 
-Treatment:
-- Spray Mancozeb 2 g per liter.
-- Remove infected leaves.
+To manage high infestation areas, consider using insect-net houses or yellow sticky traps. These tools can help control pest populations and prevent further damage to crops.
 
-2. LATE BLIGHT:
-Symptoms:
-- Water-soaked lesions.
-- White fungal growth under leaves.
+Tomato plants infected with bacterial wilt exhibit sudden wilting, typically starting with one or two branches, especially during hot days. Leaves remain green, but the plant collapses rapidly. When the stem is cut open, the vascular tissue turns brown, and a milky ooze can be seen in water. To treat this disease, remove and destroy severely infected plants and surrounding soil. Seedlings can be treated with hot-water or bactericide dips, such as Streptomycin sulfate or copper-based bactericides, where recommended. It's essential to avoid reusing infected soil or transplanting from infected nurseries.
 
-Treatment:
-- Spray Metalaxyl 1 g per liter.
-- Avoid overhead irrigation.
+To prevent bacterial wilt, use disease-free nurseries and rotate tomato with non-host crops such as cereals or crucifers. Avoid continuous solanaceous cropping and maintain good drainage. Additionally, avoid using farm-yard manure contaminated with infected plant material and practice field sanitation.
 
-3. LEAF CURL VIRUS:
-Symptoms:
-- Leaf curling.
-- Stunted growth.
+Septoria leaf spot appears as small, circular spots with dark brown margins and a grayish center on lower leaves. Tiny black dots, known as pycnidia, may be visible in the center of the spots. Heavy infection causes yellowing and early leaf drop, reducing yield and fruit quality. To treat this disease, spray Mancozeb or Chlorothalonil at a 0.2-0.3% solution at the first sign of symptoms and repeat 2-3 times at 10-day intervals. It's also essential to avoid overhead irrigation and high-nitrogen top-dressing during disease-prone periods.
 
-Cause:
-Whitefly transmission.
+To prevent Septoria leaf spot, use disease-free seedlings and rotate tomato with non-solanaceous crops. Maintain proper spacing and avoid dense planting. Remove and destroy infected leaves and crop residues after harvest, and keep field sanitation to avoid continuous tomato cropping.
 
-Treatment:
-- Spray Imidacloprid 0.3 ml per liter.
-- Use yellow sticky traps.
+Damping-off occurs in the nursery and causes seedlings to collapse at the base. The stem near the soil line becomes water-soaked and then dark brown and constricted. Infected seedlings topple over and die rapidly, leading to patchy stand failure. To treat this disease, treat seeds with fungicides such as Trichoderma harzianum or captan-based seed dressings. Use raised, well-drained seed beds and avoid waterlogging. Apply soil drench with metalaxyl or carbendazim in severely affected nurseries as per ICAR advisory.
 
-PEST MANAGEMENT:
+To prevent damping-off, use clean, disease-free nursery soil and trays. Avoid overcrowding of seedlings and maintain good aeration. Avoid excessive watering and use treated irrigation water. Practice crop rotation and field sanitation to reduce soil-borne inoculum.
 
-1. FRUIT BORER:
-Symptoms:
-- Holes in fruits.
-- Larvae inside fruit.
+Powdery mildew appears as white, powdery fungal growth on the upper surface of leaves. Infected leaves may turn yellow, become distorted, and drop prematurely.
 
-Treatment:
-- Spray Spinosad 0.5 ml per liter.
-- Install pheromone traps.
 
-IRRIGATION:
-Irrigate every 5–7 days.
-Avoid waterlogging.
+In severe cases of the disease, stems can be affected, leading to reduced fruit set and yield. To treat the disease, spray sulphur-based fungicides or systemic fungicides such as myclobutanil at the recommended dose once white patches appear. It is essential to repeat the treatment 1-2 times at 10-14-day intervals, especially in dry but warm conditions.
 
-HARVEST:
-Harvest fruits at mature green or red stage.
+To prevent the disease, maintain good air circulation by proper spacing and avoid dense canopies. Avoid high-nitrogen doses and keep the field dry when possible. Remove and destroy severely infected leaves and maintain field sanitation.
+
+Blossom end rot appears as a sunken, dark brown or black, leathery spot on the blossom end of the fruit. The affected area enlarges and may become watery or secondary rots may develop. The rest of the plant may look healthy. To correct calcium deficiency, apply foliar calcium sprays or soil amendments such as gypsum or calcium nitrate as per soil test recommendations. Maintaining uniform soil moisture, especially during fruiting, and avoiding sudden water stress is also crucial.
+
+To prevent blossom end rot, use balanced fertilization and avoid excess nitrogen. Maintain regular irrigation and mulching to reduce fluctuations in soil moisture. Avoid over-pruning and maintain a proper plant canopy for shade on fruits.
+
+Tomato leaf curl, caused by Begomovirus, is characterized by severe upward curling, narrowing, and crinkling of leaves, often with yellow mottling. Plants remain stunted, with reduced branching and poor flowering. Fruit set is low, and fruits that form are small and misshapen. To treat the disease, remove and destroy infected plants as early as possible. Use resistant/tolerant varieties such as Arka Abhed, Arka Samrat, or other ICAR-recommended Ty-gene-carrying cultivars. Control whitefly vectors with approved insecticides at recommended doses and intervals.
+
+To prevent tomato leaf curl, use virus-free seedlings and avoid planting in high-whitefly-pressure areas without protection. Maintain field sanitation and remove weed hosts such as Datura and Sida. Use yellow sticky traps and insect-net houses or row covers where feasible.
+
+Fusarium wilt is characterized by yellowing of lower leaves, especially on one side, followed by wilting and browning of the vascular system. In advanced stages, the entire plant wilts and dies, even though the soil is moist. Brown discoloration can be seen when the stem is cut open. To treat the disease, use Fusarium-resistant varieties such as Arka Vikas or other tolerant cultivars. In nurseries, treat soil with Trichoderma-based bio-fungicides or non-chemical steaming where available. Avoid reusing soil from infected fields without proper solarization or fumigation.
+
+To prevent Fusarium wilt, rotate tomato with non-solanaceous crops such as cereals and pulses.
+
+To minimize the risk of disease in your tomato crop, it is essential to avoid continuous solanaceous cropping. This means rotating your crops to break the disease cycle. When planting tomatoes, use disease-free seedlings and maintain good drainage to prevent waterlogged soil. Additionally, avoid using farm-yard manure contaminated with infected plant material and practice field sanitation to prevent the spread of disease.
+
+Bacterial spot is a common disease affecting tomatoes, characterized by small, dark brown or black spots with yellow halos on leaves and fruits. These spots can coalesce, causing the plant to yellow and prematurely defoliate. On fruits, spots become slightly raised, sunken, and scabby, reducing marketability. To treat bacterial spot, spray copper-based bactericides at the first appearance of symptoms, following the label dose. It is also crucial to avoid high-nitrogen and overhead irrigation, which can worsen the spread of the disease. Remove heavily infected plants and burn them to prevent further infection.
+
+Preventing bacterial spot requires careful planning. Use disease-free seedlings and avoid planting in fields with a history of bacterial spot. Maintain proper spacing and avoid dense canopies, which can contribute to the spread of the disease. Avoid working in wet fields and use drip irrigation where possible to reduce the risk of infection. Practicing crop rotation and field sanitation are also essential in preventing bacterial spot.
+
+Bacterial speck is another disease affecting tomatoes, characterized by small, dark brown spots with yellow halos on leaves and young fruits. These spots are often water-soaked at first and become scabby. Severe infection can cause leaf yellowing, bronzing, and early defoliation, as well as small, slightly sunken, scabby spots on fruits. To treat bacterial speck, use pathogen-free seed and seedlings, and apply copper-based bactericides at label-recommended doses when symptoms first appear. Avoid high-nitrogen and overhead irrigation, which can favor the spread of the disease.
+
+Preventing bacterial speck requires careful planning. Practice crop rotation with non-solanaceous crops to break the disease cycle. Avoid working in wet fields and use drip irrigation to reduce the risk of infection. Remove infected plant debris and keep field sanitation to prevent the spread of the disease. Using resistant varieties where available and avoiding continuous tomato cropping can also help prevent bacterial speck.
+
+Tomato spotted wilt virus (TSWV / TOSPO) is a viral disease affecting tomatoes, characterized by leaves showing bronzing, downward curling, and necrotic spots, as well as stems showing dark streaks and dieback. Young plants may become stunted, and fruits develop chlorotic spots, blotches, and concentric rings, reducing marketability. Unfortunately, there is no chemical cure for the virus, so it is essential to remove and destroy infected plants immediately. Using TSWV-tolerant varieties where available can also help mitigate the impact of the disease.
+
+Preventing TSWV requires careful planning. Use virus-free seedlings and avoid planting in high-thrips-pressure areas without protection. Maintain field sanitation and remove weeds that act as alternate hosts to prevent the spread of the disease. Using sticky traps and reflective mulches can also help reduce thrips movement and prevent the spread of the virus.
+
+Botrytis, also known as grey mould, is a fungal disease affecting tomatoes, characterized by infected leaves and fruits showing water-soaked lesions that turn brown and become covered with a gray, fuzzy fungal growth. Rot may spread rapidly, especially in cool, humid conditions or in packed fruits. To prevent botrytis, maintain good air circulation and avoid overhead irrigation, which can contribute to the spread of the disease. Remove any infected plant material and practice field sanitation to prevent the spread of the disease.
+
+
+Flower parts and old leaves are commonly affected by various diseases. To manage these issues, it is essential to improve air circulation and reduce humidity in greenhouses or poly-houses. Infected leaves and fruits should be removed promptly to prevent further damage. Fungicides like iprodione, cyprodinil, or other Botrytis-specific fungicides should be applied at recommended doses during high-risk periods.
+
+To prevent the occurrence of these diseases, it is crucial to maintain good ventilation and avoid dense planting. Overhead irrigation should be avoided, and foliage should be kept dry to reduce the risk of infection. Harvest and pack fruits carefully to avoid wounds, which can provide entry points for pathogens. Practicing crop rotation and field sanitation can also help reduce the inoculum and minimize the risk of disease spread.
+
+Tomato plants infected with Tomato Mosaic Virus (ToMV) exhibit characteristic symptoms, including mosaic-like patches of light and dark green on leaves, often accompanied by yellow mottling and distortion. Infected plants may be stunted, with curled and reduced leaves, and fruits may be smaller, unevenly ripened, and misshapen. To manage this disease, it is essential to remove and destroy infected plants as early as possible. Using ToMV-resistant tomato varieties where available can also help control the spread of the disease. Additionally, controlling aphid transmission and managing seedling-bed hygiene strictly can help prevent the spread of the virus.
+
+To prevent the occurrence of ToMV, it is crucial to use certified, virus-free seed and seedlings. Avoid touching plants with contaminated tools or hands, as this can spread the virus. Practicing crop rotation and field sanitation can also help reduce the risk of disease spread. Washing hands and tools after working with infected plants is also essential to prevent the spread of the virus.
+
+When cultivating tomatoes, it is recommended to choose disease-resistant or tolerant varieties suitable for the region. These varieties, such as Arka Rakshak, Narendra Tomato-2, Arka Meghali, Kashi-series, etc., can help reduce the risk of disease occurrence. Following ICAR-recommended doses and spacing, typically 60×45 cm to 75×30 cm depending on season and system, can also help promote healthy plant growth. A well-drained, loam to sandy loam soil with pH 6.5–7.5 is ideal for tomato cultivation, and incorporating FYM (about 25 t/ha) and recommended NPK doses (often 120–180:80–100:50–100 kg/ha, split as basal + topdress) can provide essential nutrients for plant growth. Micro-nutrients like boron and zinc should also be added where advised.
+
+Sowing 200–400 g seed/ha in raised nursery beds and treating seedlings with fungicides or Trichoderma can help promote healthy seedling growth. Transplanting healthy 25–30-day-old seedlings during the recommended season (Rabi: Sep–Dec, Kharif: Jun–Jul, Summer: Jan, depending on region and protection system) can also help reduce the risk of disease occurrence. Proper irrigation using drip or furrow can help maintain soil moisture and prevent water stress at flowering and fruiting stages. Training plants, pruning suckers, supporting with stakes or trellis, and ensuring good air circulation and light penetration can also promote healthy plant growth.
+
+To reduce soil-borne diseases and nematodes, it is essential to rotate tomato with non-solanaceous crops (cereals, pulses, crucifers) and avoid continuous tomato or solanaceous cropping. Practicing strict field sanitation, removing and destroying infected plant debris, and avoiding working in wet fields can also help reduce disease spread.
+
+
+When selecting seedlings for planting, it is essential to choose high-quality, disease-free, and known varieties. Avoid planting in fields with a history of severe bacterial wilt, Fusarium wilt, or root-knot nematode without implementing proper management strategies, such as using resistant varieties, bio-control methods, or crop rotation.
+
+To promote healthy growth and prevent disease, it is crucial to avoid over-applying nitrogen, particularly in the late stages of growth. Excessive nitrogen can increase susceptibility to fungal diseases like early blight, late blight, and Botrytis, and unbalanced NPK nutrition can also have negative effects. 
+
+Flooding or stagnant water should be avoided, as it can lead to continuous moisture that favors the development of foliar diseases such as early blight, late blight, and grey mould. Overhead irrigation under a dense canopy can also increase humidity and contribute to disease development.
+
+Planting in very dense configurations that limit ventilation or allowing unchecked suckers and weeds can increase disease and pest pressure. It is essential to follow recommended spacing guidelines, such as those provided by the ICAR, to ensure proper air circulation and prevent the buildup of disease-causing organisms.
+
+When transplanting seedlings, it is essential to avoid reusing soil or trays from diseased nurseries and to avoid transplanting visibly diseased seedlings or plants with root galls. This can spread nematodes and soil-borne pathogens, which can have devastating effects on the crop.
+
+Early symptoms of major diseases, such as leaf curl, wilts, blights, and bacterial spots, should not be ignored. Delaying curative sprays and roguing can lead to increased inoculum and significantly reduced yields.
+
+Tomato plants perform poorly in highly acidic soils and heavy clays with poor drainage. To promote healthy growth, it is essential to ensure that the soil is properly limed and drained.

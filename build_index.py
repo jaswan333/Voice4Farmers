@@ -15,13 +15,20 @@ documents = []
 for filename in os.listdir(DATA_FOLDER):
     if filename.endswith(".txt"):
         with open(os.path.join(DATA_FOLDER, filename), "r", encoding="utf-8") as f:
-            documents.append(f.read())
+            text = f.read()
+
+            for i in range(0, len(text), 400):
+                chunk = text[i:i+500]
+                documents.append(chunk)
 
 print("Creating embeddings...")
-embeddings = embed_model.encode(documents)
+embeddings = embed_model.encode(
+    documents,
+    normalize_embeddings=True
+)
 
 dimension = embeddings.shape[1]
-index = faiss.IndexFlatL2(dimension)
+index = faiss.IndexFlatIP(dimension)
 index.add(np.array(embeddings))
 
 faiss.write_index(index, INDEX_PATH)
@@ -30,3 +37,4 @@ with open(DOCS_PATH, "wb") as f:
     pickle.dump(documents, f)
 
 print("FAISS index created successfully.")
+print("Total chunks indexed:", len(documents))

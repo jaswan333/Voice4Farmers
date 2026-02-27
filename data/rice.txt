@@ -1,66 +1,53 @@
-CROP NAME: Rice (Oryza sativa)
+Rice farmers should be aware of the symptoms of blast disease, which include spindle-shaped lesions on leaves with a grayish center and dark brown margin, as well as neck blast that can cut off the panicle, leading to empty or partially filled grains. Lesions may also appear on nodes and panicles, and severe infection can cause lodging and heavy yield loss. To manage blast, use blast-resistant varieties such as Ajay, Arize Tej, or other ICAR-recommended varieties. Spray tricyclazole or propiconazole at the recommended dose at the onset of leaf symptoms and repeat if needed, applying 2-3 sprays at 10-14-day intervals while avoiding high-nitrogen doses during disease-prone periods.
 
-GENERAL INFORMATION:
-Rice is a major Kharif crop grown in India. It requires warm and humid climate. 
-Ideal temperature: 20°C to 35°C.
-Ideal rainfall: 100–200 cm annually.
-Suitable soil: Clayey or loamy soil with good water retention.
+To prevent blast, avoid excess nitrogen and maintain balanced fertilizer use. Maintain proper plant spacing and drainage, and remove and destroy infected crop residues. Avoid continuous rice cropping and practice crop rotation where possible, using disease-free seed and avoiding planting in areas with known high blast pressure.
 
-SEED VARIETIES:
-- IR64
-- ADT 43
-- BPT 5204
-- CR 1009
+Brown spot disease in rice appears as small, dark brown spots with a light-brown center on leaves, which may coalesce and cause leaf drying in severe cases. Unfilled grains and chaffy grains may also be observed. To manage brown spot, use varieties with moderate resistance or tolerance and apply balanced fertilizers, especially adequate potassium and phosphorus. Spray mancozeb or captan at recommended doses at early symptom appearance, repeating 1-2 times as per advisory.
 
-NURSERY MANAGEMENT:
-Seeds should be treated with fungicide (Carbendazim 2g per kg seed) before sowing.
-Nursery duration: 20–25 days.
+Preventing brown spot involves using healthy seed and avoiding excess nitrogen, maintaining good drainage and avoiding water stagnation, and removing and destroying infected crop residues. Rotating rice with non-host crops where feasible can also help prevent the disease.
 
-FERTILIZER RECOMMENDATION:
-Basal dose per acre:
-- Urea: 50 kg
-- DAP: 50 kg
-- MOP (Potash): 25 kg
+Bacterial leaf blight (BLB) causes long, narrow, grayish-green to yellow stripes along the edges of leaves, with a wavy margin, and in severe cases, the entire leaf dries up and the plant appears scorched. Nodes may also rot, leading to "white ear" symptoms. To manage BLB, use resistant varieties such as Arize Dhani or other BLB-resistant varieties recommended by ICAR, and apply copper-based bactericides at early stages, following label dose. Avoid excessive nitrogen and maintain good water management.
 
-Top dressing:
-Apply remaining nitrogen in 2 splits at tillering and panicle initiation stage.
+Preventing BLB involves using disease-free seed and avoiding continuous rice cropping, burning or plowing under infected crop residues, avoiding overhead irrigation, and maintaining proper field drainage. Avoiding high-nitrogen doses and dense planting can also help prevent the disease.
 
-COMMON DISEASES:
+Sheath blight in rice causes oval or irregular lesions on leaf sheaths, often starting at the water level, which are dark green turning grayish with a brown border. To manage sheath blight, use resistant varieties and maintain good crop rotation and sanitation practices, including removing and destroying infected crop residues. Avoiding excess nitrogen and maintaining balanced fertilizer use can also help prevent the disease.
 
-1. RICE BLAST:
-Symptoms:
-- Diamond-shaped lesions with gray center on leaves.
-- Leaf drying in severe cases.
 
-Cause:
-Fungal infection (Magnaporthe oryzae).
+Under humid conditions, white, web-like fungal growth (mycelium) may be seen on sheaths and leaves of rice plants. To manage this issue, it is recommended to use semi-dwarf or erect-type varieties with better canopy structure. Fungicides such as validamycin or carbendazim should be applied at recommended doses during the maximum tillering to early booting stage. Timely and judicious nitrogen management is critical to prevent the spread of the disease. Avoiding excess nitrogen and maintaining proper spacing can reduce canopy density, while keeping field water levels appropriate and removing and destroying infected plant material can also help prevent the disease.
 
-Treatment:
-- Spray Tricyclazole 0.6 g per liter of water.
-- Avoid excess nitrogen fertilizer.
-- Maintain proper spacing.
+Infected rice plants show stunted growth, yellow-orange to orange-red discoloration of leaves, and reduced tillering. Leaves may appear pale or mottled, and plants often fail to produce healthy panicles, leading to severe yield loss. There is no direct chemical cure for viral infection, so it is essential to remove and destroy infected plants to reduce virus spread. Using clean, virus-free seedlings and monitoring green leafhopper populations, the key vector, can also help prevent the spread of the disease. Tungro-tolerant or resistant varieties should be used where available, and control green leafhoppers with appropriate insecticides at recommended doses.
 
-2. BACTERIAL LEAF BLIGHT:
-Symptoms:
-- Yellowing of leaf tips.
-- Drying from leaf edges.
+Sheath rot causes lesions on the leaf sheath at the panicle emergence zone of rice plants, resulting in oval or irregular, grayish to brown lesions that may lead to rotting of the panicle neck, resulting in unfilled or partially filled grains. To manage this issue, using healthy seed and avoiding excess nitrogen is recommended. Fungicides such as carbendazim or thiophanate-methyl should be applied at recommended doses during maximum tillering and early panicle emergence if disease pressure is high. Maintaining proper plant spacing and drainage, avoiding dense planting and stagnant water, removing and destroying infected crop residues, and rotating rice with non-host crops where feasible can also help prevent the disease.
 
-Treatment:
-- Spray Streptocycline 0.1 g per liter.
-- Use resistant varieties.
+False smut appears as small, light-yellow granules in the spikelets of rice plants that later turn into dark green to black, smutted grains. Infected spikelets are often partially filled or distorted, and the fungus masses may spread to neighboring grains. To manage this issue, avoiding high-nitrogen application, especially late-stage top-dressing, is recommended. Fungicides such as propiconazole or carbendazim should be applied at the booting stage in high-risk areas, following label recommendations. Using resistant or moderately tolerant varieties, maintaining balanced fertilization, and avoiding late-stage heavy nitrogen can also help prevent the disease. Practicing crop rotation and field sanitation to reduce carry-over inoculum can also be beneficial.
 
-3. BROWN PLANT HOPPER:
-Symptoms:
-- Hopper burn patches.
-- Stunted growth.
+Infected rice plants show stunted growth, yellowing leaves, and reduced tillering due to the rice root-knot nematode. To manage this issue, maintaining balanced fertilization and avoiding late-stage heavy nitrogen is recommended. Practicing crop rotation and field sanitation to reduce carry-over inoculum can also help prevent the disease.
 
-Treatment:
-- Spray Imidacloprid 0.3 ml per liter.
-- Avoid excessive water stagnation.
 
-IRRIGATION MANAGEMENT:
-Maintain standing water of 2–5 cm during vegetative stage.
-Drain water 10 days before harvest.
+Roots of the crop may develop galls or swellings, and the root system appears swollen and distorted. This condition can be treated by using nematicides such as carbofuran granules, applied at recommended doses during land preparation or early stages of crop growth, as per ICAR advisories. It is also essential to maintain good water management practices and avoid continuous rice cropping in fields infested with nematodes.
 
-HARVESTING:
-Harvest when 80–85% grains turn golden yellow.
+To prevent the occurrence of this condition, it is recommended to practice crop rotation with non-host crops such as cereals or legumes. Additionally, using clean, nematode-free seedlings can help minimize the risk of infestation. Furthermore, plowing under and decomposing crop residues can also help reduce nematode populations, thereby preventing the development of galls or swellings on the roots.
+
+
+
+Maintaining proper field drainage and sanitation is crucial for the health and productivity of your rice crop. One of the most common insect pests in Tamil Nadu is the Stem Borer, scientifically known as Scirpophaga incertulas. This pest can cause significant damage to the crop, resulting in symptoms such as a "dead heart" in the vegetative stage, a "white ear head" during the reproductive stage, and a hollow stem when cut open. To manage this pest, you can release Trichogramma cards, apply chlorantraniliprole or cartap hydrochloride as per TNAU recommendations, and avoid late planting.
+
+Another insect pest that can affect your rice crop is the Leaf Folder. This pest causes leaves to be folded longitudinally, resulting in scraping of green tissue and white streaks, which can reduce photosynthesis. To manage this pest, avoid excess nitrogen application, use light traps, and spray flubendiamide if the infestation is severe.
+
+Rice Hispa is another common pest that can cause significant damage to your crop. This pest scrapes the leaf surface, resulting in white parallel streaks, and can lead to leaf drying in severe cases. It is more common in dry conditions. Proper drainage and timely harvest can help manage this pest.
+
+Grain discoloration is another issue that can affect your crop, resulting in brown or black discoloration on grains and reduced grain quality. This is more common in high humidity at maturity. To manage this issue, ensure proper drainage, harvest your crop in a timely manner, and avoid lodging.
+
+Khaira disease, also known as zinc deficiency, is a very common issue in Tamil Nadu. It is not a pathogen but a nutrient deficiency that can cause significant damage to your crop. Symptoms include bronzing of leaves, stunted growth, and reduced tillering. To manage this issue, apply zinc sulphate at a rate of 25 kg/ha as basal, and foliar spray 0.5% zinc sulphate with lime.
+
+To ensure the best possible yield from your rice crop, it is essential to follow recommended practices. This includes using recommended varieties, such as ADT-43, ADT-45, CO-51, and CR-1009, which are commonly recommended in Tamil Nadu. Choose a season-specific variety to ensure optimal growth and productivity.
+
+Proper spacing is also crucial for the health and productivity of your crop. Aim for a spacing of 20 x 10 cm or 20 x 15 cm, and avoid dense planting. Balanced fertilizer application is also essential, and you should follow soil test recommendations. Apply nitrogen in split doses, adequate potassium, and zinc if deficient.
+
+Proper water management is also critical for your crop. Maintain a standing water level of 2-5 cm and avoid continuous deep flooding. Drain the field before harvest to prevent water stagnation.
+
+Finally, it is essential to monitor your field on a weekly basis to detect any issues early on. Check for dead heart, leaf lesions, and vector insects, and take prompt action to prevent heavy losses.
+
+In terms of what not to do, it is essential to avoid applying excess nitrogen, as this can increase the risk of blast, sheath blight, and leaf folder. Avoid allowing water stagnation, as this can promote sheath blight and root problems, and lodging. Continuous rice cropping can also increase disease carry-over and nematode buildup, so it is essential to rotate your crops.
+
+Finally, do not ignore zinc deficiency symptoms, as this is a very common mistake in Tamil Nadu. Delaying pest control can also lead to heavy yield losses, so it is essential to take prompt action to manage pests such as the stem borer.

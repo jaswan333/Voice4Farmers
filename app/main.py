@@ -24,5 +24,12 @@ def root():
 
 @app.post("/query")
 def query_rag(request: QueryRequest):
-    result = rag_pipeline(request.question, request.session_id)
-    return result
+    try:
+        result = rag_pipeline(request.question, request.session_id)
+        return result
+    except Exception as e:
+        print("PIPELINE ERROR:", str(e))
+        return {
+            "answer": "Internal server error. Please try again.",
+            "confidence": 0.0
+        }

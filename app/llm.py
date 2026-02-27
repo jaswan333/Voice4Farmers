@@ -8,15 +8,17 @@ def generate_answer(question, context):
     prompt = f"""
 You are a strict agricultural assistant.
 
-You MUST answer ONLY using the provided context.
-If the context does NOT explicitly contain the answer,
-respond EXACTLY with:
-
-Information not available in knowledge base.
-
-Do NOT use general knowledge.
+You MUST answer using ONLY the provided context.
+Do NOT use outside knowledge.
 Do NOT guess.
-Do NOT assume.
+
+IIf the context does not contain enough information to fully answer the question,
+use whatever relevant management or related information is available.
+
+Only if the context is completely unrelated, respond EXACTLY with:
+Information not available in knowledge base.
+If the context contains relevant information,
+use it to give a clear and practical answer.
 
 Context:
 {context}
@@ -24,22 +26,22 @@ Context:
 Question:
 {question}
 
-Question:
-{question}
-
 Answer clearly and practically.
 """
 
-    response = client.chat.completions.create(
-        model="llama-3.1-8b-instant",
-        messages=[
-            {"role": "user", "content": prompt}
-        ],
-        temperature=0.3,
-        max_tokens=512
-    )
+    try:
+        response = client.chat.completions.create(
+            model="llama-3.1-8b-instant",
+            messages=[{"role": "user", "content": prompt}],
+            temperature=0.3,
+            max_tokens=512,
+        )
 
-    return response.choices[0].message.content.strip()
+        return response.choices[0].message.content.strip()
+
+    except Exception as e:
+        print("LLM ERROR:", str(e))
+        return "Service temporarily unavailable. Please try again."
 
 def rewrite_question(user_question, chat_history_text):
     prompt = f"""

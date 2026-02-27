@@ -32,20 +32,19 @@ def load_vector_store():
 
 def search(query, k=3):
 
-    query_embedding = embed_model.encode([query])
-    distances, indices = index.search(query_embedding, k)
+    query_embedding = embed_model.encode(
+        [query],
+        normalize_embeddings=True
+    )
+
+    scores, indices = index.search(query_embedding, k)
 
     results = []
-    top_score = 0.0
 
-    for i, score in zip(indices[0], distances[0]):
+    for i in indices[0]:
         if i < len(documents):
             results.append(documents[i])
 
-    if len(distances[0]) > 0:
-        # Convert distance to similarity
-        top_score = float(1 / (1 + distances[0][0]))
+    top_score = float(scores[0][0]) if len(scores[0]) > 0 else 0.0
 
     return results, top_score
-# LOAD INDEX WHEN FILE IS IMPORTED
-load_vector_store()
