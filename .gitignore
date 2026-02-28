@@ -13,10 +13,7 @@ venv/
 env/
 .venv/
 
-# FAISS index files
-*.index
-*.faiss
-*.pkl
+
 
 # Logs
 *.log
@@ -29,6 +26,3 @@ env/
 .DS_Store
 Thumbs.db
 
-__pycache__/
-faiss_index.index
-documents.pkl

@@ -1,10 +1,24 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
+from fastapi.middleware.cors import CORSMiddleware
 from app.rag_pipeline import rag_pipeline
 from app.vector_store import load_vector_store
 from typing import Optional
 
 app = FastAPI(title="Agri RAG API")
+origins = [
+    "http://localhost:8000",
+    "http://localhost:3000",
+    "https://voice4farmers-api.onrender.com",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,  # or ["*"] for testing
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
 
 
 @app.on_event("startup")
