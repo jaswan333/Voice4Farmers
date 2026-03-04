@@ -1,65 +1,340 @@
-To cultivate brinjal successfully, it is essential to grow the crop in well-drained loam to sandy loam soil rich in organic matter, with a pH ranging from 6.5 to 7.5. Prolonged warm weather with day temperatures between 25 and 30 degrees Celsius and night temperatures between 18 and 20 degrees Celsius is ideal for high yields. 
+=== CROP: Brinjal ===
 
-For optimal growth, raise seedlings in nurseries or seed trays using about 100 to 150 grams of certified, disease-free seed per hectare. Treat the seeds with fungicides such as carbendazim or Trichoderma to reduce damping-off and seedling-rot. 
+Brinjal - Bacterial Wilt (Disease)
 
-When transplanting, use 4 to 6-week-old seedlings at a spacing of 45 to 60 centimeters by 45 to 60 centimeters, depending on the variety and system. Closer spacing is suitable for hybrids, while wider spacing is recommended for tall varieties. Transplanting on raised beds in heavy soils can help avoid waterlogging. 
+Common Farmer Questions:
 
-Fertilize the crop by applying 100 to 120 kilograms of nitrogen, 60 to 80 kilograms of phosphorus, and 50 to 75 kilograms of potassium per hectare, split into basal and top-dressings. Incorporating farm-yard manure or compost into the soil can be beneficial, especially in poor soil conditions. 
+Why are plants suddenly wilting even though soil is wet?
 
-Maintain regular irrigation, especially during flowering and fruiting, using drip or furrow irrigation to ensure even moisture and prevent fruit-cracking and blossom-end rot. Avoid waterlogging and long-term dry stress, as these can negatively impact the crop. 
+Why is one stem turning brown inside while leaves stay green?
 
-Regular weeding, earthing-up during the rainy season, and staking or supporting plants in tall varieties can help reduce lodging and fruit rot. It is also essential to rotate brinjal with non-solanaceous crops such as cereals, pulses, and crucifers to reduce the build-up of soil-borne diseases and nematodes. Avoid continuous brinjal or other solanaceous crops in the same field.
+Symptoms:
 
-To ensure the health and productivity of the crop, avoid using poor-quality, diseased, or recycled seedlings. Do not transplant seedlings that are tall, leggy, or already infected with damping-off, wilt, or mosaic virus. Also, avoid planting in heavy clay, poorly drained, or very acidic or alkaline soils without proper bed preparation and pH correction. Excessive nitrogen application, especially late in the season, can promote excessive vegetative growth and increase susceptibility to insects and diseases. 
+One or more branches wilt first, then whole plant collapses
 
-Continuous brinjal cropping in the same field should be avoided, as this increases soil-borne pathogens and nematodes and reduces yield. Heavily irrigating at fruit maturity or leaving plants water-stressed during flowering can lead to fruit-drop, cracking, or poor fruit quality. Ignoring early signs of major pests or diseases can increase inoculum and economic loss. Finally, avoid dumping infected plant residues or fruits near the field, as this provides a continuous source of disease and pest inoculum for next seasons.
+When stem is cut, inside is brown and may ooze in water
 
+Roots may be soft and black in severe cases
 
-Brinjal plants affected by Bacterial Wilt (Ralstonia solanacearum) exhibit sudden wilting, starting from lower leaves, while leaves remain green. In advanced stages, the entire plant collapses. When the stem is cut and placed in water, a milky bacterial ooze appears, and vascular tissue turns brown. There is no chemical cure for bacterial wilt, so it is essential to remove and destroy infected plants along with surrounding soil as early as possible. Use certified disease-free seedlings and treat seedlings with Trichoderma or appropriate bactericides before planting. To prevent bacterial wilt, avoid continuous solanaceous cropping and rotate with non-host crops. Use well-drained fields and avoid waterlogging. Do not reuse soil from infected nurseries and maintain field sanitation. Avoid farm-yard manure contaminated with diseased plant material.
+Cause:
+Bacterial disease caused by Ralstonia solanacearum entering through roots or wounds.
 
-Brinjal seedlings in the nursery may collapse at the base, with the stem near the soil line becoming water-soaked and later turning brown or black. Seedlings may topple over and die in patches, leading to poor stand. To treat damping-off and seedling-rot, treat seed with fungicides such as carbendazim or Trichoderma before sowing. Use raised, well-drained seed beds and avoid waterlogging. In severely affected nurseries, apply soil drench with metalaxyl or carbendazim as per advisory. To prevent damping-off and seedling-rot, use clean, disease-free nursery soil and trays. Avoid overcrowding and maintain good aeration. Avoid excessive watering and use treated irrigation water. Practice crop rotation and field sanitation to reduce soil-borne inoculum.
+Solution:
 
-Brinjal plants affected by Brinjal Mosaic or Leaf Curl Viruses (e.g., Tomato Leaf Curl-like viruses) show mosaic-like light and dark green patches, curling, and stunting. Plants may remain bushy with reduced flowering and fruiting. Fruits are small, misshapen, and poorly coloured. There is no chemical cure for the virus, so it is essential to remove and destroy infected plants immediately. Use resistant or tolerant varieties where available. Control whitefly or aphid vectors with approved insecticides at recommended doses. To prevent Brinjal Mosaic or Leaf Curl Viruses, use virus-free seedlings and avoid planting in high-whitefly pressure areas without protection. Maintain field sanitation and remove weed hosts (e.g., Datura, Sida). Use yellow sticky traps and insect-net houses or row covers where feasible.
+Remove and destroy infected plants with surrounding soil
 
-Brinjal plants are susceptible to Shoot and Fruit Borer (Leucinodes orbonalis), which causes larvae to bore into young shoots and tender fruits, causing withering of shoots and creating hard, black "droppings" at entry holes. Infested fruits may rot or become completely unusable. To control Shoot and Fruit Borer, spray endosulfan 35 EC at 0.05-0.07% solution or other recommended insecticides (e.g., carbaryl, quinalphos, spinosad) at 0.1-0.15% as per local advisory.
+Use disease‑free seedlings and treat them with appropriate fungicides or Trichoderma
 
+Avoid planting in that plot immediately for next season
 
-For brinjal crops, start sprays at the first sign of shoot-wilt and repeat 2-3 times at 10-15-day intervals. To manage the pest effectively, combine sprays with pheromone traps, which should be placed at a rate of 4-6 traps per hectare to monitor and reduce moth populations. Remove and destroy affected shoots and fruits to prevent the spread of the disease.
+Prevention:
 
-To prevent brinjal shoot-wilt, avoid continuous brinjal cropping and practice crop rotation. Maintain field hygiene by destroying alternate host plants and encourage natural enemies by reducing broad-spectrum sprays. Aphids and jassids are common pests that can cause significant damage to brinjal crops. Aphids cluster on the undersides of leaves, sucking sap and causing yellowing and curling, while jassids cause leaf burn or scorching, resulting in yellowing and stunted growth. Both can transmit viral diseases.
+Rotate with non‑solanaceous crops like cereals or pulses
 
-For effective management of aphids and jassids, scout plants regularly and spray at the first sign of infestation. Prefer spot-spraying and avoid blanket treatment where possible. Use systemic insecticides such as Imidacloprid, Dimethoate, or other recommended products at the recommended doses. In organic or IPM-oriented systems, use neem-based or other bio-pesticides. To prevent infestation, use resistant or tolerant varieties, encourage natural enemies by reducing harsh insecticides, and remove weed hosts and maintain field sanitation.
+Avoid heavy, water‑logged soil; use raised beds if needed
 
-Hairy or red mites can also cause significant damage to brinjal crops. Mites feed on the undersides of leaves, causing yellow mottling, bronzing, and fine webbing. In severe cases, leaves dry up and plants become stunted, reducing fruit size and yield. To manage mites, apply miticides such as Dicofol, abamectin, or sulfur-based products as soon as mites are detected, and repeat at 7-10-day intervals depending on product persistence. Ensure good coverage of the undersides of leaves. To prevent mite infestation, avoid water stress and maintain adequate irrigation, use light traps, remove dusty vegetation around fields, and encourage predator mites and other natural enemies.
+Keep tools and equipment clean to avoid spreading bacteria
 
-Cercospora leaf spot is a common disease that affects brinjal crops. Small, angular, gray or brown lesions with dark margins appear on leaves, and as the disease progresses, spots may merge, causing large dead areas and premature leaf drop. Severely affected plants show reduced vigour and fruit yield. To prevent the disease, use disease-free, certified seedlings and maintain balanced fertilization.
+Brinjal - Damping‑off (Disease)
 
+Common Farmer Questions:
 
+Why are seedlings collapsing at the base in nursery?
 
-To manage Alternaria Leaf Spot in brinjal, it is essential to practice crop rotation with non-solanaceous crops and avoid continuous brinjal cropping. Maintaining proper spacing and drainage to reduce leaf wetness and canopy humidity is also crucial. Remove and destroy infected plant debris after harvest to prevent the disease from spreading. At the first sign of leaf spots, spray a broad-spectrum fungicide such as Mancozeb at a 0.2-0.3% solution, and repeat the application 1-2 times at 10-day intervals if disease pressure is high.
+Why are small plants falling and rotting near soil?
 
-To prevent Alternaria Leaf Spot, it is recommended to rotate brinjal with cereals or pulses, avoid dense planting, and overhead irrigation to reduce leaf wetness. Remove infected leaves and crop residues after harvest and maintain field sanitation. Using healthy, disease-free seedlings and avoiding high-nitrogen fertilization can also help prevent the disease.
+Symptoms:
 
-Phomopsis Blight/Fruit Rot in brinjal can be identified by dark, sunken lesions on stems, leaves, and fruits, which become water-soaked and later turn brown or black, causing partial or complete fruit rot. Infected plants show blighting and drying of branches. To manage the disease, use healthy, disease-free seedlings and avoid reusing infected soil. Spray fungicides such as Carbendazim, Mancozeb, or similar broad-spectrum fungicides at recommended doses when blight symptoms first appear, repeating as per advisory in humid conditions.
+Seedlings fall at base, stem near soil water‑soaked, black or brown
 
-Preventing Phomopsis Blight/Fruit Rot involves practicing crop rotation and avoiding continuous brinjal cropping. Maintaining proper spacing and drainage to reduce humidity is also essential. Remove and destroy infected plant parts and fruiting bodies, and avoid dumping diseased material near the field.
+Patches of dead, lying seedlings in nursery bed
 
-Brinjal Little Leaf, caused by phytoplasma, can be identified by leaves becoming very small, thin, and pale yellow, with a bushy, rosette-like appearance and distorted flower buds. Infected plants rarely produce normal fruits, which are hard and misshapen. There is no chemical cure for phytoplasma, so remove and destroy infected plants immediately. Use healthy, disease-free seedlings and avoid planting in fields with known little-leaf history.
+Poor stand and weak, uneven plants
 
-To prevent Brinjal Little Leaf, control the leaf-hopper vector (Amrasca spp.) with approved insecticides at recommended doses. Maintain field sanitation and remove weed hosts to prevent the spread of the disease.
+Cause:
+Soil‑borne fungal disease in wet, overcrowded nursery beds.
 
-To reduce vector build-up, it is essential to practice crop rotation and avoid continuous solanaceous cropping. This approach will help minimize the risk of pest infestations and diseases in brinjal crops.
+Solution:
 
-Thrips (Thrips palmi) are a significant pest of brinjal, causing damage through their feeding activities. These insects scrape the leaf surface and suck sap, resulting in silvery-white patches, brown streaks, and distorted, twisted leaves. In severe cases, leaves dry up, and plants become stunted. Thrips also transmit some viral diseases, which can further reduce yield and fruit quality. To manage thrips infestations, it is recommended to spray Imidacloprid, Acephate, or Spinosad as per label dose when thrips first appear. In integrated pest management (IPM)-oriented systems, neem-based or bio-pesticides can be used in combination with yellow sticky traps to monitor and reduce populations. Regular scouting on the undersides of leaves and applying sprays at the first sign of infestation is crucial. Repeat treatment at 7-10-day intervals under heavy pressure, adjusting the dose and product as per local advisory.
+Treat seeds with fungicides or Trichoderma before sowing
 
-Whiteflies (Bemisia tabaci) are another significant pest of brinjal, causing damage through their feeding activities. These insects feed on the undersides of leaves, causing yellowing, stunting, and reduced vigour. They also secrete honeydew, leading to sooty mould growth on leaves and fruits. Whiteflies transmit viral diseases such as leaf curl and mosaic-type viruses. To manage whitefly infestations, use Imidacloprid, Acetamiprid, or other recommended systemic insecticides at label-recommended doses when adults are first observed. Combining these with neem-based or bio-pesticides and using yellow sticky traps for monitoring and suppression can be effective. It is essential to start spraying at low-population stages and repeat at 7-10-day intervals if needed. Spot-sprays are preferred over blanket treatment where possible.
+Keep nursery beds raised and well‑drained, avoid heavy watering
 
-Leaf-hoppers (Amrasca biguttula, Hishimonus spp.) are a significant pest of brinjal, causing damage through their feeding activities. These insects suck sap from leaves, causing yellowing, downward curling, and characteristic "burned" or scorched edges. In severe cases, plants become stunted, and yield is reduced. To manage leaf-hopper infestations, it is essential to promote good agricultural practices, such as crop rotation and avoiding dense planting and excessive nitrogen, which can favour leaf-hoppers. Encouraging natural enemies, such as predatory thrips, lacewings, and lady beetles, by reducing broad-spectrum insecticides can also be beneficial. Maintaining field sanitation and removing weed hosts can help prevent the spread of leaf-hoppers.
+If disease appears, give light soil drench as per local recommendation
 
+Prevention:
 
+Use clean, disease‑free soil and sterilized trays
 
-Leaf-hoppers are also vectors of brinjal little leaf and some viral diseases. To manage these pests effectively, it is essential to spray approved insecticides such as Dimethoate, Malathion, or other similar products at label-recommended doses, typically in the form of a 0.05-0.08% solution, as soon as nymphs or adults are first spotted. In integrated pest management (IPM) systems, combining these sprays with neem-based sprays and light traps or sticky traps can be an effective approach.
+Avoid overcrowding seedlings in nursery
 
-Regular scouting is crucial to detect early colonization by leaf-hoppers, and spraying at this stage is essential. It is recommended to repeat the spraying process 1-2 times at 7-10-day intervals under high pressure conditions. When spraying, focus on providing thorough coverage of the bottom side of the leaves to ensure maximum effectiveness. This approach will help in minimizing the damage caused by leaf-hoppers and preventing the spread of brinjal little leaf and other viral diseases.
+Water lightly and frequently, not in standing water
 
-To prevent leaf-hopper infestations, it is recommended to adopt a few key strategies. First, rotate brinjal with non-host crops to break the disease cycle. Maintaining good field sanitation and removing weed hosts can also help in reducing the risk of infestation. Additionally, encouraging natural enemies such as spiders, predatory bugs, and parasitoids by reducing the use of broad-spectrum insecticides can be an effective way to manage leaf-hopper populations.
+Brinjal - Brinjal Little Leaf (Phytoplasma) (Disease)
+
+Common Farmer Questions:
+
+Why are leaves very small and pale yellow?
+
+Why are plants bushy, with twisted branches and no normal fruits?
+
+Symptoms:
+
+Leaves small, thin, pale yellow, with distorted shape
+
+Plants bushy, rosette‑like, with many short, stunted branches
+
+Few flowers, most fruits small, hard, and misshapen
+
+Cause:
+Phytoplasma disease spread by leafhoppers between plants.
+
+Solution:
+
+Remove and destroy infected plants early
+
+Use little‑leaf‑tolerant varieties where available
+
+Control leafhoppers with approved insecticides
+
+Prevention:
+
+Use healthy, disease‑free seedlings
+
+Control leafhopper vectors early with Imidacloprid or similar sprays
+
+Remove nearby solanaceous weeds that host the vector
+
+Brinjal - Mosaic and Leaf Curl Viruses (Disease)
+
+Common Farmer Questions:
+
+Why are leaves showing light and dark green patches in patches?
+
+Why are leaves curling and plants looking stunted?
+
+Symptoms:
+
+Leaves with mosaic‑like light and dark green or yellow mottling
+
+Leaves curled, twisted, plants short and weak
+
+Fruits small, misshapovan, poor colour and shape
+
+Cause:
+Virus diseases spread by whiteflies or aphids feeding on leaves.
+
+Solution:
+
+Remove infected plants early before viruses spread
+
+Use mosaic or leaf‑curl‑resistant varieties where available
+
+Control whiteflies or aphids with systemic insecticides
+
+Prevention:
+
+Use virus‑free, certified seedlings
+
+Apply early vector control sprays in virus‑prone areas
+
+Remove nearby weeds like Datura and Sida that host vectors
+
+Brinjal - Alternaria / Cercospora Leaf Spot (Disease)
+
+Common Farmer Questions:
+
+Why are leaves getting brown or circular patches?
+
+Why are leaves drying from bottom of plant?
+
+Symptoms:
+
+Small round or irregular brown spots on leaves with dark margin
+
+Spots may join, leaves turn yellow and drop early
+
+Reduced leaves, fewer flowers and fruits, lower yield
+
+Cause:
+Fungal disease caused by Alternaria or Cercospora in humid, wet conditions.
+
+Solution:
+
+Spray Mancozeb or Chlorothalonil 0.2–0.3% at early spots, repeat 2–3 times at 10‑day intervals
+
+Avoid spraying during peak sunshine
+
+Prevention:
+
+Maintain proper spacing for good air movement
+
+Avoid overhead irrigation on leaves
+
+Remove infected leaves and burn crop residues after harvest
+
+Brinjal - Nutrient Deficiency – Nitrogen (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are older leaves turning pale yellow?
+
+Why is crop thin and weak, with few fruits?
+
+Symptoms:
+
+Older leaves pale green to yellow, starting from tip and margin
+
+Plants thin, with fewer branches and slower growth
+
+Fewer flowers and fruits, small, light‑coloured fruits
+
+Cause:
+Low nitrogen in soil or poor fertilizer management.
+
+Solution:
+
+Top‑dress with urea 15–25 kg/ha in split doses at vegetative and early flowering stages
+
+Combine with organic manure or compost to improve soil health
+
+Prevention:
+
+Follow balanced NPK recommendations for brinjal
+
+Avoid heavy, late nitrogen after flowering
+
+Use responsive high‑yielding varieties only with good nutrient supply
+
+Brinjal - Nutrient Deficiency – Potassium (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are leaf tips and edges drying out and brown?
+
+Why are plants weak and fruits soft or shrivelled?
+
+Symptoms:
+
+Leaf tips and margins turn brown, dry like burn marks
+
+Older leaves show yellowing along edges
+
+Plants look weak, fruits may be small and soft
+
+Cause:
+Low potassium in soil, especially in sandy or heavily cropped fields.
+
+Solution:
+
+Apply MOP 15–25 kg/ha split with basal or top‑dressing, as per local advice
+
+Include organic manure or compost to improve soil K
+
+Prevention:
+
+Use balanced NPK, avoid only nitrogen‑rich practice
+
+Avoid continuous brinjal without K or manure
+
+Keep good drainage and avoid waterlogging
+
+Brinjal - Shoot and Fruit Borer (Pest)
+
+Common Farmer Questions:
+
+Why are young shoots drying and dropping?
+
+Why are fruits rotting with small holes and black droppings?
+
+Symptoms:
+
+Young shoots and tender fruits show holes and black droppings
+
+Shoots wither and dry from tip downwards
+
+Fruits partially or completely rotten from inside
+
+Cause:
+Larvae of shoot and fruit borer boring into shoots and fruits.
+
+Solution:
+
+Spray Carbaryl, Quinalphos, Spinosad or approved insecticides as per label at early signs
+
+Repeat 2–3 times at 10–15‑day intervals in high‑pressure areas
+
+Prevention:
+
+Remove and destroy affected shoots and rotten fruits
+
+Keep spacing open to improve spray coverage
+
+Avoid continuous brinjal in same field
+
+Brinjal - Thrips (Pest)
+
+Common Farmer Questions:
+
+Why are leaves silvery and tips dried out?
+
+Why are fruits rough, small and marbled?
+
+Symptoms:
+
+Leaves silvery, scratched, with small streaks
+
+Leaf tips and margins brown, plants may look burnt
+
+Fruits small, rough, with marbled or uneven colour
+
+Cause:
+Thrips feeding on leaves and fruits in hot, dry weather.
+
+Solution:
+
+Spray Spinosad, Imidacloprid or Thiamethoxam as per label at early signs
+
+Spray early morning or late evening for better coverage
+
+Prevention:
+
+Avoid dense, overcrowded planting
+
+Reduce high nitrogen, keep canopy airy
+
+Use blue or yellow sticky traps to monitor thrips
+
+Brinjal - Aphids and Leafhoppers (Pest)
+
+Common Farmer Questions:
+
+Why are leaves sticky and covered with black sooty mould?
+
+Why are leaves yellowing and stunted?
+
+Symptoms:
+
+Small soft insects on leaf undersides and tender shoots
+
+Leaves sticky from honeydew, with black sooty mould
+
+Plants may be stunted, with reduced growth and fewer fruits
+
+Cause:
+Aphids and leafhoppers sucking sap and sometimes spreading viruses.
+
+Solution:
+
+Spray Imidacloprid or Acetamiprid as per label dose at first appearance
+
+Repeat 1–2 times at 7–10‑day intervals under heavy pressure
+
+Prevention:
+
+Avoid heavy nitrogen and dense planting
+
+Maintain field sanitation and remove nearby weeds
+
+Use yellow or blue sticky traps to monitor pests
+

@@ -1,53 +1,300 @@
-Rice farmers should be aware of the symptoms of blast disease, which include spindle-shaped lesions on leaves with a grayish center and dark brown margin, as well as neck blast that can cut off the panicle, leading to empty or partially filled grains. Lesions may also appear on nodes and panicles, and severe infection can cause lodging and heavy yield loss. To manage blast, use blast-resistant varieties such as Ajay, Arize Tej, or other ICAR-recommended varieties. Spray tricyclazole or propiconazole at the recommended dose at the onset of leaf symptoms and repeat if needed, applying 2-3 sprays at 10-14-day intervals while avoiding high-nitrogen doses during disease-prone periods.
+=== CROP: Rice ===
 
-To prevent blast, avoid excess nitrogen and maintain balanced fertilizer use. Maintain proper plant spacing and drainage, and remove and destroy infected crop residues. Avoid continuous rice cropping and practice crop rotation where possible, using disease-free seed and avoiding planting in areas with known high blast pressure.
+Rice - Blast (Disease)
 
-Brown spot disease in rice appears as small, dark brown spots with a light-brown center on leaves, which may coalesce and cause leaf drying in severe cases. Unfilled grains and chaffy grains may also be observed. To manage brown spot, use varieties with moderate resistance or tolerance and apply balanced fertilizers, especially adequate potassium and phosphorus. Spray mancozeb or captan at recommended doses at early symptom appearance, repeating 1-2 times as per advisory.
+Common Farmer Questions:
 
-Preventing brown spot involves using healthy seed and avoiding excess nitrogen, maintaining good drainage and avoiding water stagnation, and removing and destroying infected crop residues. Rotating rice with non-host crops where feasible can also help prevent the disease.
+Why are there brown spots on leaves and necks?
 
-Bacterial leaf blight (BLB) causes long, narrow, grayish-green to yellow stripes along the edges of leaves, with a wavy margin, and in severe cases, the entire leaf dries up and the plant appears scorched. Nodes may also rot, leading to "white ear" symptoms. To manage BLB, use resistant varieties such as Arize Dhani or other BLB-resistant varieties recommended by ICAR, and apply copper-based bactericides at early stages, following label dose. Avoid excessive nitrogen and maintain good water management.
+Why are some panicles cut off and grains empty?
 
-Preventing BLB involves using disease-free seed and avoiding continuous rice cropping, burning or plowing under infected crop residues, avoiding overhead irrigation, and maintaining proper field drainage. Avoiding high-nitrogen doses and dense planting can also help prevent the disease.
+Symptoms:
 
-Sheath blight in rice causes oval or irregular lesions on leaf sheaths, often starting at the water level, which are dark green turning grayish with a brown border. To manage sheath blight, use resistant varieties and maintain good crop rotation and sanitation practices, including removing and destroying infected crop residues. Avoiding excess nitrogen and maintaining balanced fertilizer use can also help prevent the disease.
+Brown, spindle‑shaped spots on leaves with gray center and dark brown margin
 
+Neck blast cuts off the panicle, making grains empty or half‑filled
 
-Under humid conditions, white, web-like fungal growth (mycelium) may be seen on sheaths and leaves of rice plants. To manage this issue, it is recommended to use semi-dwarf or erect-type varieties with better canopy structure. Fungicides such as validamycin or carbendazim should be applied at recommended doses during the maximum tillering to early booting stage. Timely and judicious nitrogen management is critical to prevent the spread of the disease. Avoiding excess nitrogen and maintaining proper spacing can reduce canopy density, while keeping field water levels appropriate and removing and destroying infected plant material can also help prevent the disease.
+Spots can also appear on nodes and panicles
 
-Infected rice plants show stunted growth, yellow-orange to orange-red discoloration of leaves, and reduced tillering. Leaves may appear pale or mottled, and plants often fail to produce healthy panicles, leading to severe yield loss. There is no direct chemical cure for viral infection, so it is essential to remove and destroy infected plants to reduce virus spread. Using clean, virus-free seedlings and monitoring green leafhopper populations, the key vector, can also help prevent the spread of the disease. Tungro-tolerant or resistant varieties should be used where available, and control green leafhoppers with appropriate insecticides at recommended doses.
+Cause:
+Fungal infection caused by Pyricularia oryzae in humid, wet conditions.
 
-Sheath rot causes lesions on the leaf sheath at the panicle emergence zone of rice plants, resulting in oval or irregular, grayish to brown lesions that may lead to rotting of the panicle neck, resulting in unfilled or partially filled grains. To manage this issue, using healthy seed and avoiding excess nitrogen is recommended. Fungicides such as carbendazim or thiophanate-methyl should be applied at recommended doses during maximum tillering and early panicle emergence if disease pressure is high. Maintaining proper plant spacing and drainage, avoiding dense planting and stagnant water, removing and destroying infected crop residues, and rotating rice with non-host crops where feasible can also help prevent the disease.
+Solution:
 
-False smut appears as small, light-yellow granules in the spikelets of rice plants that later turn into dark green to black, smutted grains. Infected spikelets are often partially filled or distorted, and the fungus masses may spread to neighboring grains. To manage this issue, avoiding high-nitrogen application, especially late-stage top-dressing, is recommended. Fungicides such as propiconazole or carbendazim should be applied at the booting stage in high-risk areas, following label recommendations. Using resistant or moderately tolerant varieties, maintaining balanced fertilization, and avoiding late-stage heavy nitrogen can also help prevent the disease. Practicing crop rotation and field sanitation to reduce carry-over inoculum can also be beneficial.
+Use resistant varieties like Ajay, Arize Tej, or other blast‑tolerant types
 
-Infected rice plants show stunted growth, yellowing leaves, and reduced tillering due to the rice root-knot nematode. To manage this issue, maintaining balanced fertilization and avoiding late-stage heavy nitrogen is recommended. Practicing crop rotation and field sanitation to reduce carry-over inoculum can also help prevent the disease.
+Spray Tricyclazole or Propiconazole 0.2–0.3% at onset of symptoms, repeat 2–3 times at 10–14‑day intervals
 
+Prevention:
 
-Roots of the crop may develop galls or swellings, and the root system appears swollen and distorted. This condition can be treated by using nematicides such as carbofuran granules, applied at recommended doses during land preparation or early stages of crop growth, as per ICAR advisories. It is also essential to maintain good water management practices and avoid continuous rice cropping in fields infested with nematodes.
+Avoid excess nitrogen, especially in disease‑prone areas
 
-To prevent the occurrence of this condition, it is recommended to practice crop rotation with non-host crops such as cereals or legumes. Additionally, using clean, nematode-free seedlings can help minimize the risk of infestation. Furthermore, plowing under and decomposing crop residues can also help reduce nematode populations, thereby preventing the development of galls or swellings on the roots.
+Maintain proper spacing and drainage, avoid dense planting
 
+Use clean, disease‑free seed and avoid continuous rice in the same field
 
+Rice - Brown Spot (Disease)
 
-Maintaining proper field drainage and sanitation is crucial for the health and productivity of your rice crop. One of the most common insect pests in Tamil Nadu is the Stem Borer, scientifically known as Scirpophaga incertulas. This pest can cause significant damage to the crop, resulting in symptoms such as a "dead heart" in the vegetative stage, a "white ear head" during the reproductive stage, and a hollow stem when cut open. To manage this pest, you can release Trichogramma cards, apply chlorantraniliprole or cartap hydrochloride as per TNAU recommendations, and avoid late planting.
+Common Farmer Questions:
 
-Another insect pest that can affect your rice crop is the Leaf Folder. This pest causes leaves to be folded longitudinally, resulting in scraping of green tissue and white streaks, which can reduce photosynthesis. To manage this pest, avoid excess nitrogen application, use light traps, and spray flubendiamide if the infestation is severe.
+Why are there small brown spots on leaves?
 
-Rice Hispa is another common pest that can cause significant damage to your crop. This pest scrapes the leaf surface, resulting in white parallel streaks, and can lead to leaf drying in severe cases. It is more common in dry conditions. Proper drainage and timely harvest can help manage this pest.
+Why are leaves drying and yield low?
 
-Grain discoloration is another issue that can affect your crop, resulting in brown or black discoloration on grains and reduced grain quality. This is more common in high humidity at maturity. To manage this issue, ensure proper drainage, harvest your crop in a timely manner, and avoid lodging.
+Symptoms:
 
-Khaira disease, also known as zinc deficiency, is a very common issue in Tamil Nadu. It is not a pathogen but a nutrient deficiency that can cause significant damage to your crop. Symptoms include bronzing of leaves, stunted growth, and reduced tillering. To manage this issue, apply zinc sulphate at a rate of 25 kg/ha as basal, and foliar spray 0.5% zinc sulphate with lime.
+Small round brown spots with light brown center and dark border on leaves
 
-To ensure the best possible yield from your rice crop, it is essential to follow recommended practices. This includes using recommended varieties, such as ADT-43, ADT-45, CO-51, and CR-1009, which are commonly recommended in Tamil Nadu. Choose a season-specific variety to ensure optimal growth and productivity.
+Spots may join and leaves turn yellow and dry early
 
-Proper spacing is also crucial for the health and productivity of your crop. Aim for a spacing of 20 x 10 cm or 20 x 15 cm, and avoid dense planting. Balanced fertilizer application is also essential, and you should follow soil test recommendations. Apply nitrogen in split doses, adequate potassium, and zinc if deficient.
+Reduced tillering and unfilled or chaffy grains in severe cases
 
-Proper water management is also critical for your crop. Maintain a standing water level of 2-5 cm and avoid continuous deep flooding. Drain the field before harvest to prevent water stagnation.
+Cause:
+Fungal disease caused by Bipolaris oryzae, common in mineral‑deficient and humid fields.
 
-Finally, it is essential to monitor your field on a weekly basis to detect any issues early on. Check for dead heart, leaf lesions, and vector insects, and take prompt action to prevent heavy losses.
+Solution:
 
-In terms of what not to do, it is essential to avoid applying excess nitrogen, as this can increase the risk of blast, sheath blight, and leaf folder. Avoid allowing water stagnation, as this can promote sheath blight and root problems, and lodging. Continuous rice cropping can also increase disease carry-over and nematode buildup, so it is essential to rotate your crops.
+Use healthy, disease‑free seedlings and balanced NPK with potassium and phosphorus
 
-Finally, do not ignore zinc deficiency symptoms, as this is a very common mistake in Tamil Nadu. Delaying pest control can also lead to heavy yield losses, so it is essential to take prompt action to manage pests such as the stem borer.
+Spray Mancozeb or Carbendazim 0.2–0.3% at early symptoms, repeat 1–2 times at 10‑day intervals
+
+Prevention:
+
+Avoid excess nitrogen, especially in continuous rice
+
+Maintain good drainage, avoid water stagnation
+
+Remove and burn infected crop residues after harvest
+
+Rice - Bacterial Leaf Blight (BLB) (Disease)
+
+Common Farmer Questions:
+
+Why are leaves drying like burnt edges?
+
+Why are leaves turning yellow and crop dying?
+
+Symptoms:
+
+Long, yellow‑green to white streaks along leaf edges, turning brown
+
+Entire leaves may dry up in heavy infection
+
+Stems may show brown stripes, plants look scorched
+
+Cause:
+Bacterial infection caused by Xanthomonas oryzae, entering through wounds and water.
+
+Solution:
+
+Use resistant varieties like Arize Dhani or BLB‑tolerant cultivars
+
+Spray copper‑based bactericides (e.g., copper oxychloride) at label dose at early infection
+
+Prevention:
+
+Avoid excess nitrogen and dense planting
+
+Avoid continuous flooding; keep field water at proper level
+
+Remove infected plants and avoid reuse of diseased seed
+
+Rice - Sheath Blight (Disease)
+
+Common Farmer Questions:
+
+Why are sheaths rotting near water level?
+
+Why are leaves drying and panicles weak?
+
+Symptoms:
+
+Oval, brown or gray lesions on leaf sheaths near the water line
+
+Lesions may spread to leaves and flag leaf, causing drying
+
+White, web‑like fungal growth seen in humid conditions
+
+Cause:
+Fungal disease caused by Rhizoctonia solani in dense, nitrogen‑rich rice.
+
+Solution:
+
+Use semi‑dwarf, erect‑type varieties with good canopy structure
+
+Spray Validamycin or Carbendazim at label dose during maximum tillering to early booting
+
+Prevention:
+
+Avoid excess nitrogen and very dense planting
+
+Keep field water and drainage in check, avoid heavy crowding
+
+Rotate rice with non‑host crops where possible
+
+Rice - Rice Tungro Virus (RTV) (Disease)
+
+Common Farmer Questions:
+
+Why are plants stunted and yellow?
+
+Why are panicles empty and yield very low?
+
+Symptoms:
+
+Plants short, leaves yellow‑orange or pale, with reduced tillers
+
+Panicles small or missing, unfilled grains
+
+Crop looks patchy in field
+
+Cause:
+Virus disease spread by green leafhopper (vector insect).
+
+Solution:
+
+Remove and destroy infected plants early
+
+Use tungro‑tolerant varieties where available
+
+Control green leafhopper with approved insecticides as per local dose
+
+Prevention:
+
+Avoid planting in known tungro‑endemic areas without vector control
+
+Use clean, virus‑free seedlings
+
+Rotate crop or avoid continuous rice where disease is severe
+
+Rice - Nitrogen Deficiency (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are leaves pale green or yellow?
+
+Why is crop thin and weak?
+
+Symptoms:
+
+Older leaves turn pale green to yellow, starting from tips
+
+Plants look thin, less tillers, short height
+
+Poor panicle size and low grain yield
+
+Cause:
+Low nitrogen in soil or poor fertilizer management.
+
+Solution:
+
+Top‑dress with urea 25–40 kg/ha split at tillering and panicle initiation, if soil test is low
+
+Combine with organic manure to improve soil health
+
+Prevention:
+
+Follow soil test‑based NPK recommendations
+
+Avoid delayed or very late nitrogen top‑dressing
+
+Include organic manure at transplanting
+
+Rice - Potassium Deficiency (Nutrient Deficiency)
+
+Common Farmer Questions:
+
+Why are leaf tips drying and brown?
+
+Why are plants weak and kernels shriveled?
+
+Symptoms:
+
+Leaf tips turn brown, drying upward like burn marks
+
+Older leaves show yellowing along margins
+
+Plants weak, lodging, small and shriveled grains
+
+Cause:
+Low potassium in soil, especially in sandy or heavily cropped soils.
+
+Solution:
+
+Apply muriate of potash (MOP) at 20–30 kg/ha split with basal or top‑dressing, as per local advisory
+
+Include FYM or compost to improve potassium retention
+
+Prevention:
+
+Use balanced NPK, avoid only nitrogen‑rich practice
+
+Avoid intensive cropping without manure or K replenishment
+
+Maintain proper drainage and avoid waterlogging
+
+Rice - Stem Borer (Pest)
+
+Common Farmer Questions:
+
+Why are some plants suddenly drying in patches?
+
+Why are panicles empty or white?
+
+Symptoms:
+
+Central shoot dries and dies, forming “deadheart” in early stage
+
+Mature plants show white, empty or half‑filled panicles (“white ear”)
+
+Holes in stem base and galleries inside stem
+
+Cause:
+Insect larvae boring into stems, cutting internal feeding channels.
+
+Solution:
+
+Spray monocrotophos 0.06–0.1% or carbaryl / quinalphos at recommended dose at borer appearance
+
+Use light or pheromone traps in fields where available
+
+Prevention:
+
+Avoid continuous rice; rotate with non‑host crops
+
+Remove and burn stubble and excess crop residue
+
+Avoid dense, overly nitrogen‑rich planting
+
+Rice - Brown Plant Hopper (Pest)
+
+Common Farmer Questions:
+
+Why are plants turning yellow and drying?
+
+Why are leaves brown and crop lodging?
+
+Symptoms:
+
+Leaves turn yellow, then brown, starting from tips and spreading
+
+Plants may dry in patches, “hopper burn”
+
+Hard, shiny black or brown insects seen at base of plants
+
+Cause:
+Sucking insect feeding on stems and leaves, often in heavy nitrogen and dense stands.
+
+Solution:
+
+Spray imidacloprid or carbaryl as per local recommendation at early hopper attack
+
+Avoid broad‑spectrum sprays that kill their natural enemies
+
+Prevention:
+
+Use balanced nitrogen, avoid excess top‑dressing
+
+Maintain proper spacing and water management
+
+Encourage frogs and spiders by reducing harsh chemicals
