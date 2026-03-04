@@ -3,7 +3,7 @@ from app.llm import generate_answer, rewrite_question
 from app.memory import add_to_memory, format_chat_history
 
 
-RELEVANCE_THRESHOLD = 0.60
+RELEVANCE_THRESHOLD = 0.51
 
 
 def rag_pipeline(question: str, session_id: str = None):
